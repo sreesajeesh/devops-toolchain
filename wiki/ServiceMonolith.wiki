@@ -1,6 +1,5 @@
-=Abstract=
-
-Complex integrated software systems end up being maintained as a single opaque mass with no-one understanding entirely how it was put together, or of what elements it is comprised, and how they interact.
+#summary Complex integrated software systems end up being maintained as a single opaque mass with no-one understanding entirely how it was put together, or of what elements it is comprised, and how they interact.
+#labels antipattern
 
 =Problem=
 
