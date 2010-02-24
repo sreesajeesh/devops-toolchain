@@ -1,0 +1,105 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-management-design-patterns-for-devops.html blog post]
+
+[Image:http://devops-toolchain.googlecode.com/svn/trunk/web/images/pagoda-patterns.png]
+
+= Design Patterns =
+<table>
+<tbody>
+<tr>
+<th>Pattern</th> <th>Description</th> <th>Mitigates</th><th>Alternative names</th>
+</tr>
+<tr>
+<td>Command Dispatcher</td>
+<td>A mechanism used to lookup and execute logically organized named procedures within a data context permitting environment abstraction within the implementations.</td>
+<td>Too Many Tools</td>
+<td>Command Framework</td>
+</tr>
+<tr>
+<td>Lifecycle</td>
+<td>A formalized series of operational stages through which resources comprising application software systems must pass.</td>
+<td>Control Hairball</td>
+<td>Alternative names</td>
+</tr>
+<tr>
+<td>Orchestrator</td>
+<td>Encapsulates a multi-step activity that spans a set of administrative steps and or other process workflows.</td>
+<td>Control Hairball, Too Many Cooks</td>
+<td>Process Workflow, Control Mediator,</td>
+</tr>
+<tr>
+<td>Composable Service</td>
+<td>A set of independent deployments that can assembled together to support new patterns of integrated software systems.</td>
+<td>Monolithic Environment</td>
+<td>Composable Deployments</td>
+</tr>
+<tr>
+<td>Adaptive Deployment</td>
+<td>Practice of using an environment-independent abstraction along with a set of template-based automation, that customizes software and configuration at deployment time.</td>
+<td>Control Hairball, Configuration Bird Nest, Unmet Integration</td>
+<td>Environment Adaption</td>
+</tr>
+<tr>
+<td>Code-Data Split</td>
+<td>Practice of separating the executable files (the product) away from the environment-specific deployment files, such as configuration and data files that facilitates product upgrade and co-resident deployments.</td>
+<td>Service Monolith</td>
+<td>Software-Instance Split</td>
+</tr>
+<tr>
+<td>Packaged Artifact</td>
+<td>A structured archive of files used for distributing any software release during the deployment process.</td>
+<td>Adhoc Release</td>
+<td>Alternative names</td>
+</tr>
+</tbody>
+</table>
+
+= Anti Patterns =
+
+<p>The anti-patterns might be more interesting since they represent practices that have definite disadvantages:</p>
+<table>
+<tbody>
+<tr>
+<th>Anti-Pattern</th> <th>Description</th> <th>Mitigates</th><th>Alternative names</th>
+</tr>
+<tr>
+<td>Too Many Tools</td>
+<td>Each technology and process activity needs its own tool, resulting in a multitude of syntaxes and semantics that must each be understood by the operator, and makes automation across them difficult to achieve.</td>
+<td>Command Dispatcher</td>
+<td>Tool Mishmash, Heterogeneous interfaces</td>
+</tr>
+<tr>
+<td>Too Many Cooks</td>
+<td>A common infrastructure must be maintained by various disciplines but each use their own tools to affect change increasing chances for conflicts and overall negative effects.</td>
+<td>Control Mediator</td>
+<td>Unmediated Action</td>
+</tr>
+<tr>
+<td>Control Hairball</td>
+<td>A process that spans activities that occur across various tools and locations in the network, is implemented in a single piece of code for convenience but turns out to be very inflexible, opaque and hard to maintain and modify.</td>
+<td>Control Mediator, Adaptive Deployment, Workflow</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Configuration Bird Nest</td>
+<td>A network of circuitous indirections used to manage configuration and seem to intertwine like a labyrinth of straw in a bird nest. People often construct a bird nest in order to provide a consistent location for an external dependency.</td>
+<td>Environment Adaptation</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Service Monolith</td>
+<td>Complex integrated software systems end up being maintained as a single opaque mass with no-one understanding entirely how it was put together, or what elements it is comprised, and how they interact.</td>
+<td>Code-Data Split, Composable Service</td>
+<td>House Of Cards, Monolithic Environment</td>
+</tr>
+<tr>
+<td>Adhoc Release</td>
+<td>The lack of standard practice and distribution mechanisms for releasing application changes.</td>
+<td>Packaged Artifact</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
