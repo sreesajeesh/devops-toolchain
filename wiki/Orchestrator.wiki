@@ -1,0 +1,1 @@
+#summary Encapsulates a multi-step activity that spans a set of administrative steps and or other process workflows.
