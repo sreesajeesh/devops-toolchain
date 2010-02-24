@@ -28,7 +28,7 @@ First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-man
 <tr>
 <td>[Orchestrator]</td>
 <td>Encapsulates a multi-step activity that spans a set of administrative steps and or other process workflows.</td>
-<td>[ControlHairball], [Too Many Cooks]</td>
+<td>[ControlHairball], [TooManyCooks]</td>
 <td>Process Workflow, Control Mediator</td>
 </tr>
 <tr>
