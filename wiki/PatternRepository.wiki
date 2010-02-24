@@ -75,7 +75,7 @@ First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-man
 <tr>
 <td>[TooManyCooks]</td>
 <td>A common infrastructure must be maintained by various disciplines but each use their own tools to affect change increasing chances for conflicts and overall negative effects.</td>
-<td>[ControlMediator]</td>
+<td>[Orchestrator]</td>
 <td>Unmediated Action</td>
 </tr>
 <tr>
