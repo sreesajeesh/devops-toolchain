@@ -1,4 +1,5 @@
 #summary Anti-pattern described as a network of circuitous indirections used to manage configuration and seem to intertwine like a labyrinth of straw in a bird nest.
+#labels antipattern
 A network of circuitous indirections used to manage configuration and seem to intertwine like a labyrinth of straw in a bird nest. People often construct a bird nest in order to provide a consistent location for an external dependency.
 
 Unfortunately, while the network of indirections may originally have served the purpose of a reliable abstraction, it comes at the expense of a new burden, administration of the bird nest, itself. Configuration bird nests are hard to maintain because they are brittle, unwieldily, tangled, and difficult to repair. 
