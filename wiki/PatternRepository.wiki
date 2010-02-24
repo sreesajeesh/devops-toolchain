@@ -81,7 +81,7 @@ First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-man
 <tr>
 <td>[ControlHairball]</td>
 <td>A process that spans activities that occur across various tools and locations in the network, is implemented in a single piece of code for convenience but turns out to be very inflexible, opaque and hard to maintain and modify.</td>
-<td>[ControlMediator], [AdaptiveDeployment], [Workflow]</td>
+<td>[Orchestrator], [AdaptiveDeployment], [Workflow]</td>
 <td></td>
 </tr>
 <tr>
@@ -93,13 +93,13 @@ First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-man
 <tr>
 <td>[ServiceMonolith]</td>
 <td>Complex integrated software systems end up being maintained as a single opaque mass with no-one understanding entirely how it was put together, or what elements it is comprised, and how they interact.</td>
-<td>[Code-DataSplit], [ComposableService]</td>
+<td>[CodeDataSplit], [ComposableService]</td>
 <td>House Of Cards, Monolithic Environment</td>
 </tr>
 <tr>
 <td>[AdhocRelease]</td>
 <td>The lack of standard practice and distribution mechanisms for releasing application changes.</td>
-<td>[Packaged rtifact]</td>
+<td>[PackagedArtifact]</td>
 <td></td>
 </tr>
 </tbody>
