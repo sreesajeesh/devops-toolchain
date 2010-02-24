@@ -1,0 +1,1 @@
+#summary Each technology and process activity needs its own tool, resulting in a multitude of syntaxes and semantics that must each be understood by the operator, and makes automation across them difficult to achieve.
