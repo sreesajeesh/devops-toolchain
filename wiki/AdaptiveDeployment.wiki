@@ -1,7 +1,5 @@
- 
-=Intent=
-
-Use data-driven automation and configuration management, that customizes software and configuration at deployment time.
+#summary Use data-driven automation and configuration management, that customizes software and configuration at deployment time.
+#labels designpattern
 
 =Motivation=
 
