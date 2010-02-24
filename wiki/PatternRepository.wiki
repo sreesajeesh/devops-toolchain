@@ -4,7 +4,7 @@
 
 First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-management-design-patterns-for-devops.html blog post]
 
-[Image:http://devops-toolchain.googlecode.com/svn/trunk/web/images/pagoda-patterns.png]
+[http://devops-toolchain.googlecode.com/svn/trunk/web/images/pagoda-patterns.png]
 
 = Design Patterns =
 <table>
