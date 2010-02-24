@@ -34,7 +34,7 @@ First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-man
 <tr>
 <td>[ComposableService]</td>
 <td>A set of independent deployments that can assembled together to support new patterns of integrated software systems.</td>
-<td>[MonolithicEnvironment]</td>
+<td>[ServiceMonolith]</td>
 <td>Composable Deployments</td>
 </tr>
 <tr>
