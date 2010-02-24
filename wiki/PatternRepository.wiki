@@ -11,7 +11,7 @@ First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-man
 <table>
 <tbody>
 <tr>
-<th>Pattern</th> <th>Description</th> <th>Mitigates</th><th>Alternative names</th>
+<th>Name</th> <th>Description</th> <th>Mitigates</th><th>Alternative names</th>
 </tr>
 <tr>
 <td>[CommandDispatcher]</td>
@@ -64,7 +64,7 @@ First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-man
 <table>
 <tbody>
 <tr>
-<th>Anti-Pattern</th> <th>Description</th> <th>Mitigates</th><th>Alternative names</th>
+<th>Name</th> <th>Description</th> <th>Mitigates</th><th>Alternative names</th>
 </tr>
 <tr>
 <td>[TooManyTools]</td>
