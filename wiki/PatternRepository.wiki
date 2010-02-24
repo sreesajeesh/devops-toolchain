@@ -64,7 +64,7 @@ First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-man
 <table>
 <tbody>
 <tr>
-<th>Name</th> <th>Description</th> <th>Mitigates</th><th>Alternative names</th>
+<th>Name</th> <th>Description</th> <th>Mitigated by</th><th>Alternative names</th>
 </tr>
 <tr>
 <td>[TooManyTools]</td>
@@ -87,7 +87,7 @@ First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-man
 <tr>
 <td>[ConfigurationBirdNest]</td>
 <td>A network of circuitous indirections used to manage configuration and seem to intertwine like a labyrinth of straw in a bird nest. People often construct a bird nest in order to provide a consistent location for an external dependency.</td>
-<td>[EnvironmentAdaptation]</td>
+<td>[AdaptiveDeployment]</td>
 <td></td>
 </tr>
 <tr>
