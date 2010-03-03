@@ -1,0 +1,12 @@
+#summary A Service management process is a category of management processes that supports and sustains a business service throughout its life cycle.
+
+=Processes=
+The Service Manager is responsible for any number of these processes but most commonly: configuration, release and deployment.
+
+  * build: produce packaged artifacts used during application release and deployment 
+  * configuration: management of the application's configuration items, their registration, relationships and deployed state
+  * detective: the monitoring for configuration and build compliance 
+  * release: preparation of build artifacts for deployment
+  * deployment: installation and configuration of build artifacts
+  * monitoring: ongoing health checks of the running application 
+  * verification: testing the build conforms to the stated specifications
