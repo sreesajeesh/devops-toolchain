@@ -1,0 +1,23 @@
+#summary DevOps best practices
+
+  * Collaboration and involvement early in the life cycle
+
+  * Configuration is code and separated from app code as artifact
+
+  * Operational concerns as non-func throughout the life cycle
+
+  * Consistent tooling between the dev ops teams
+
+  * Using packaging as release vehicle
+
+  * Abstracted administration
+
+  * Automated build and release
+
+  * Modeled life cycles that drive tool behavior (eg versioned SDLCs)
+
+  * Automated infrastructure/system provisioning
+
+  * Audited release tracing  (requirements to operation)
+
+  * Ops tooling falls under the same SDLC as the bizapp
