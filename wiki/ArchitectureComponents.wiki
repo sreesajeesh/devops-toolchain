@@ -1,7 +1,16 @@
 #summary One-sentence summary of this page.
 
   * SCM
+  * OS install
+  * Naming services (DNS)
+  * Inventory
+  * Monitoring
+  * Reporting (and trending)
+  * Email
   * Configuration management
   * Ticket system
   * Identity management (auth/auth)
-  *
+  * Deployment
+  * Orchestration
+  * Command Dispatcher
+  * Artifact repository
