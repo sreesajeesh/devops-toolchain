@@ -1,0 +1,7 @@
+#summary One-sentence summary of this page.
+
+  * SCM
+  * Configuration management
+  * Ticket system
+  * Identity management (auth/auth)
+  *
