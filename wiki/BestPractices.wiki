@@ -21,3 +21,5 @@
   * Audited release tracing  (requirements to operation)
 
   * Ops tooling falls under the same SDLC as the bizapp
+
+  * Scripted database changes released as an artifact
