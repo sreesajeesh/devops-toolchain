@@ -1,16 +1,33 @@
-#summary One-sentence summary of this page.
+#summary Architectural components supporting a programmable infrastructure environment
 
-  * SCM
-  * OS install
-  * Naming services (DNS)
-  * Inventory
-  * Monitoring
-  * Reporting (and trending)
-  * Email
-  * Configuration management
-  * Ticket system
-  * Identity management (auth/auth)
-  * Deployment
-  * Orchestration
-  * Command Dispatcher
-  * Artifact repository
+=Components=
+== Version Control ==
+
+== OS install ==
+
+== Naming services ==
+DNS
+
+== Inventory ==
+
+== Monitoring==
+
+== Reporting ==
+(and trending)
+
+== Email ==
+
+== Configuration management ==
+
+==  Issue tracker ==
+
+== Identity management ==
+(security authorization)
+
+== Deployment ==
+
+== Orchestration ==
+
+== Command Dispatcher ==
+
+== Artifact repository ==
