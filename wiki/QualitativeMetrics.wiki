@@ -1,0 +1,14 @@
+#summary Qualitative metrics
+
+  * Agility
+  * Transparency
+  * Quality
+  * Reliability
+  * Consistency
+  * Efficiency
+  * Traceability
+  * Reproducibility
+  * Throughput
+  * Availability
+  * Scalability
+  * Securability
