@@ -1,5 +1,6 @@
 #summary Qualitative metrics
 
+= Positive =
   * Agility
   * Transparency
   * Quality
@@ -12,3 +13,12 @@
   * Availability
   * Scalability
   * Securability
+
+= Negative=
+  * Instability
+  * Opacity
+  * Rigidity
+  * Inconsistency
+  * Dislocation
+  * Bottleneck
+  * Adhoc
