@@ -1,5 +1,7 @@
 #summary Architectural components supporting a programmable infrastructure environment
 
+<a href="http://devops-toolchain.googlecode.com/svn/wiki/images/programmable-infrastructure-environment-em.gif"><img align="right" src="http://devops-toolchain.googlecode.com/svn/wiki/images/programmable-infrastructure-environment-em.gif" alt="Programmable infrastructure environment" width="300"/></a>
+
 =Components=
 == Version Control ==
 
