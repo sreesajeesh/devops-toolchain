@@ -38,7 +38,7 @@ The following section organizes tools by establishing distinct categories that s
 || *SDLC Phase* || ||
 || *Qualities* || ||
 
-===[http://nexus.sonatype.org Nexus]]===
+===[http://nexus.sonatype.org Nexus]===
 || *Description* || ""Nexus manages software "artifacts" required for development, deployment, and provisioning" ||
 || *SDLC Phase* || ||
 || *Qualities* || ||
