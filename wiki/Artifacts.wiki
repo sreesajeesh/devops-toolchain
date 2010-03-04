@@ -13,3 +13,6 @@ This section presents categories of artifacts associated with the devops tool-ch
 || Qualities || ||
 
 ==Package==
+|| Description || "A [http://en.wikipedia.org/wiki/Software_package_(installation) software package] refers to computer software packaged in an archive format to be installed by a package management system or a self-sufficient installer"||
+|| Tools || ||
+|| Qualities || ||
