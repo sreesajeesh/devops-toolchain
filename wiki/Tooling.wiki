@@ -11,7 +11,10 @@ This section presents a tabular taxonomy of Open Source tooling.
 The following section organizes tools by establishing distinct categories that stand in their own right and can also be described in terms of the [SdlcPhases SDLC phases]. Open Source examples of each tool type are included, with a brief description of what they do and a comparative assessment of the [QualitativeMetrics qualities] they deliver.
 
 ==Build==
-
+=== [http://ant.apache.org Apache Ant]===
+[http://ant.apache.org/manual/intro.html Apache Ant is a Java-based build tool].  In theory, it is kind of like make, without make's wrinkles.
+===[http://maven.apache.org Apache Maven]===
+Apache Maven is a software project management and comprehension tool.
 ==Continuous Integration==
 
 ==Dependency Management==
