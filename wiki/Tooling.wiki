@@ -63,14 +63,16 @@ The following section organizes tools by establishing distinct categories that s
 ==IDE==
 
 ==Source Code Management==
+
 ===Subversion===
 || *Description* || "[http://subversion.apache.org Apache Subversion] is an open source version control system" ||
-|| *SDLC Phase* || ||
+|| *SDLC Phase* || [SdlcPhases#Development Development] ||
 || *Qualities* || ||
 || *Artifacts* || [Artifacts#Sourcebase Sourcebase] ||
  
 ===Git===
-|| *SDLC Phase* || "[http://git-scm.com  Git] is a free & open source, distributed version control system designed to handle everything from small to very large projects with speed and efficiency" ||
+|| *Description* || "[http://git-scm.com  Git] is a free & open source, distributed version control system designed to handle everything from small to very large projects with speed and efficiency" ||
+|| *SDLC Phase* || [SdlcPhases#Development Development] ||
 || *Qualities* || ||
 || *Artifacts* || [Artifacts#Sourcebase Sourcebase] ||
 
