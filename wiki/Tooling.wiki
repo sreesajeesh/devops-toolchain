@@ -62,7 +62,7 @@ The following section organizes tools by establishing distinct categories that s
 
 ==IDE==
 
-==Source Code Management==
+==Version Control System==
 
 ===Subversion===
 || *Description* || "[http://subversion.apache.org Apache Subversion] is an open source version control system" ||
