@@ -69,7 +69,7 @@ The following section organizes tools by establishing distinct categories that s
 || *Qualities* || ||
 || *Artifacts* || [Artifacts#Sourcebase Sourcebase] ||
  
-===Git===
+===[http://git-scm.com Git]===
 || *SDLC Phase* || "Git is a free & open source, distributed version control system designed to handle everything from small to very large projects with speed and efficiency" ||
 || *Qualities* || ||
 || *Artifacts* || [Artifacts#Sourcebase Sourcebase] ||
