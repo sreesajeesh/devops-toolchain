@@ -3,6 +3,8 @@
 <a href="http://devops-toolchain.googlecode.com/svn/wiki/images/programmable-infrastructure-environment-em.gif"><img align="right" src="http://devops-toolchain.googlecode.com/svn/wiki/images/programmable-infrastructure-environment-em.gif" alt="Programmable infrastructure environment" width="300"/></a>
 
 =Components=
+Set of functional components comprising the generic architecture. Depending on the implementation some of these roles may be supported by one or more tools.
+
 == Version Control ==
 Contains all tool chain related source files used to support setting up and operating the deployments and infrastructure. 
 
@@ -20,21 +22,28 @@ Sometimes referred to as a CMDB.
 Continuous status checking of vital components in the infrastructure. 
 
 == Reporting ==
-(and trending)
+Accepts and logs management events later used for historical auditing and trending.
 
 == Email ==
+Functioning SMTP service and configuration. 
 
 == Configuration management ==
+Defines configuration rules for deployments and infrastructure and capable of checking compliance and enforcing the specification..
 
 ==  Issue tracker ==
+Manages change requests and their resolution.
 
 == Identity management ==
-(security authorization)
+Defines users, their roles as well as authorized actions. 
 
 == Deployment ==
+Defines a set of deployments residing on the infrastructure as well as drive their life cycle.
 
 == Orchestration ==
+Coordinates multi-step process across a distributed environment.
 
 == Command Dispatcher ==
+Provides network abstracted remote command execution on hosts.
 
 == Artifact repository ==
+Stores packaged artifacts used to distribute throughout the infrastructure.
