@@ -67,7 +67,7 @@ The following section organizes tools by establishing distinct categories that s
 || *Description* || "Subversion is an open source version control system" ||
 || *SDLC Phase* || ||
 || *Qualities* || ||
-|| *Artifacts* || [Artifacts#Sourcebase ||
+|| *Artifacts* || [Artifacts#Sourcebase] ||
 
 ==Unit Testing==
 
