@@ -2,4 +2,5 @@
   * [SdlcPhases SDLC phases]
   * [BestPractices Best practices]
   * [ArchitectureComponents Architecture components]
+  * [Artifacts]
   * [Tooling]
