@@ -4,15 +4,20 @@
 
 =Components=
 == Version Control ==
+Contains all tool chain related source files used to support setting up and operating the deployments and infrastructure. 
 
-== OS install ==
+== Operating system install ==
+Provides operating system life cycle management including network boot, OS image installation and execution of finish scripts. May also support OS patching. The finish scripts may call out to configuration management or other administrative tools to complete the installation. 
 
-== Naming services ==
-DNS
+== Host naming services ==
+Provides IP address to hostname mapping as a centralized service (i.e., DNS).
 
 == Inventory ==
+A database containing information about infrastructure, components, their details and interrelationships. 
+Sometimes referred to as a CMDB.
 
 == Monitoring==
+Continuous status checking of vital components in the infrastructure. 
 
 == Reporting ==
 (and trending)
