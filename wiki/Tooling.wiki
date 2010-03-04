@@ -12,11 +12,12 @@ The following section organizes tools by establishing distinct categories that s
 
 ==Build==
 === [http://ant.apache.org Apache Ant]===
-[http://ant.apache.org/manual/intro.html Apache Ant is a Java-based build tool].  In theory, it is kind of like make, without make's wrinkles.
+"[http://ant.apache.org/manual/intro.html Apache Ant is a Java-based build tool].  In theory, it is kind of like make, without make's wrinkles".
 ===[http://maven.apache.org Apache Maven]===
-Apache Maven is a software project management and comprehension tool.
+"Apache Maven is a software project management and comprehension tool".
 ==Continuous Integration==
-
+===[http://cruisecontrol.sourceforge.net CruiseControl]===
+"CruiseControl is both a continuous integration tool and an extensible framework for creating a custom continuous build process".
 ==Dependency Management==
 
 ==Packaging==
