@@ -1,11 +1,11 @@
 #summary Software development life cycle phases
 
 =Phases=
-  * Planning
-  * Requirements
-  * Development
-  * Build
-  * Testing
-  * Release
-  * Operation
-  * Maintenance
+==Planning==
+==Requirements==
+==Development==
+==Build==
+==Testing==
+==Release==
+==Operation==
+==Maintenance==
