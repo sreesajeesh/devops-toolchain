@@ -2,7 +2,7 @@
 
 = Introduction =
 
-The foundation of the devops tool-chain is the set individual tools themselves. Of particular interest is establishing a tool-chain taxonomy. What categories of tools are there? How do they correlate to the [SdlcPhases SDLC]? How are they ordered? Which are closely integrated with one-another, roughly compatible, or down-right disjoint? Which [QualitativeMetrics qualities] does each tool embody? Where does it fall short? What [Artifacts artifacts] to they produce?
+The foundation of the devops tool-chain is the set tools themselves. Of particular interest is establishing a tool-chain taxonomy. What categories of tools are there? How do they correlate to the [SdlcPhases SDLC]? How are they ordered? Which are closely integrated with one-another, roughly compatible, or down-right disjoint? Which [QualitativeMetrics qualities] does each tool embody? Where does it fall short? What [Artifacts artifacts] do they produce?
 
 This section presents a tabular taxonomy of Open Source tooling. 
 
