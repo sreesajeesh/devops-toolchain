@@ -15,11 +15,13 @@ The following section organizes tools by establishing distinct categories that s
 || *Description* || "[http://ant.apache.org/manual/intro.html Apache Ant is a Java-based build tool].  In theory, it is kind of like make, without make's wrinkles" ||
 || *SDLC Phase* || [SdlcPhases#Build Build] ||
 || *Qualities* || ||
+|| *Artifacts* || ||
 
 ===[http://maven.apache.org Apache Maven]===
 || *Description* || "Apache Maven is a software project management and comprehension tool" ||
 || *SDLC Phase* || [SdlcPhases#Build Build] ||
 || *Qualities* || ||
+|| *Artifacts* || ||
 
 ==Continuous Integration==
 
@@ -27,6 +29,7 @@ The following section organizes tools by establishing distinct categories that s
 || *Description* || "CruiseControl is both a continuous integration tool and an extensible framework for creating a custom continuous build process" ||
 || *SDLC Phase* || ||
 || *Qualities* || ||
+|| *Artifacts* || ||
 
 ==Dependency Management==
 
@@ -37,11 +40,13 @@ The following section organizes tools by establishing distinct categories that s
 || *Description* || "Apache Jackrabbit is a fully conforming implementation of the Content Repository for Java Technology API (JCR, specified in JSR 170 and 283)" ||
 || *SDLC Phase* || ||
 || *Qualities* || ||
+|| *Artifacts* || ||
 
 ===[http://nexus.sonatype.org Nexus]===
-|| *Description* || ""Nexus manages software "artifacts" required for development, deployment, and provisioning" ||
+|| *Description* || "Nexus manages software "artifacts" required for development, deployment, and provisioning" ||
 || *SDLC Phase* || ||
 || *Qualities* || ||
+|| *Artifacts* || ||
 
 ==Authentication==
 
@@ -58,6 +63,11 @@ The following section organizes tools by establishing distinct categories that s
 ==IDE==
 
 ==Source Code Management==
+===[http://subversion.apache.org Apache Subversion]===
+|| *Description* || "Subversion is an open source version control system" ||
+|| *SDLC Phase* || ||
+|| *Qualities* || ||
+|| *Artifacts* || [Artifacts#Sourcebase ||
 
 ==Unit Testing==
 
