@@ -1,4 +1,4 @@
-  * [QualitativeMetrics Qualitative metrics]
+  * [Qualities]
   * [SdlcPhases SDLC phases]
   * [BestPractices Best practices]
   * [ArchitectureComponents Architecture components]
