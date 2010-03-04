@@ -1,13 +1,15 @@
-#summary Description of devops tool-chain artifacts
+#summary Artifacts of the devops tool-chain
 
 = Introduction =
 
-Add your content here.
+This section presents categories of artifacts associated with the devops tool-chain.
 
 
-= Details =
+= Categories =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+==Sourcebase==
+|| Description || A collection of code, configuration or other files required to build a particular application or component ||
+|| Tools || ||
+|| Qualities || ||
+
+==Package==
