@@ -13,12 +13,12 @@ The following section organizes tools by establishing distinct categories that s
 ==Build==
 === [http://ant.apache.org Apache Ant]===
 || *Description* || "[http://ant.apache.org/manual/intro.html Apache Ant is a Java-based build tool].  In theory, it is kind of like make, without make's wrinkles" ||
-|| *SDLC Phase* || ||
+|| *SDLC Phase* || [SdlcPhases#Build Build] ||
 || *Qualities* || ||
 
 ===[http://maven.apache.org Apache Maven]===
 || *Description* || "Apache Maven is a software project management and comprehension tool" ||
-|| *SDLC Phase* || ||
+|| *SDLC Phase* || [SdlcPhases#Build Build] ||
 || *Qualities* || ||
 
 ==Continuous Integration==
