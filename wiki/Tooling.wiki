@@ -12,9 +12,9 @@ The following section organizes tools by establishing distinct categories that s
 
 ==Build==
 === [http://ant.apache.org Apache Ant]===
-|| Description || [http://ant.apache.org/manual/intro.html Apache Ant is a Java-based build tool].  In theory, it is kind of like make, without make's wrinkles" ||
-|| SDLC Phase || ||
-|| Qualities || ||
+|| *Description* || [http://ant.apache.org/manual/intro.html Apache Ant is a Java-based build tool].  In theory, it is kind of like make, without make's wrinkles" ||
+|| *SDLC Phase* || ||
+|| *Qualities* || ||
 ===[http://maven.apache.org Apache Maven]===
 "Apache Maven is a software project management and comprehension tool".
 ==Continuous Integration==
