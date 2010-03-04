@@ -2,7 +2,7 @@
 
 Self assessment is the process of gathering information about ...
 
-<a href="http://devops-toolchain.googlecode.com/svn/wiki/images/people-process-tools-reference-model.png"><img src="http://devops-toolchain.googlecode.com/svn/wiki/images/people-process-tools-reference-model.png" width="300" align="center"/></a>
+<a href="http://devops-toolchain.googlecode.com/svn/wiki/images/people-process-tools-reference-model.png"><img src="http://devops-toolchain.googlecode.com/svn/wiki/images/people-process-tools-reference-model.png"  align="center"/></a>
 
 
 What should a self assessment look at? A self assessment should include a look at ...
