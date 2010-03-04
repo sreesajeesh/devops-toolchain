@@ -23,7 +23,10 @@ The following section organizes tools by establishing distinct categories that s
 ==Packaging==
 
 ==Repository==
-
+===[http://jackrabbit.apache.org Apache Jackrabbit]===
+"Apache Jackrabbit is a fully conforming implementation of the Content Repository for Java Technology API (JCR, specified in JSR 170 and 283)".
+===[http://nexus.sonatype.org Nexus]]===
+"Nexus manages software "artifacts" required for development, deployment, and provisioning".
 ==Authentication==
 
 ==Content Distribution==
