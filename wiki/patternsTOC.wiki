@@ -1,0 +1,16 @@
+Patterns
+  * [AdaptiveDeployment]
+  * [CodeDataSplit]
+  * [CommanderDispatcher]
+  * [ComposableService]
+  * [Lifecycle]
+  * [Orchestrator]
+  * [PackagedArtifact]
+  * [TooManyTools]
+Anti-Patterns
+  * [AdhocRelease]
+  * [ConfigurationBirdNest]
+  * [ControlHairball]
+  * [ServiceMonolith]
+  * [TooManyCooks]
+  * [TooManyTools]
