@@ -1,5 +1,6 @@
 #summary Catalog of design patterns and anti patterns relevant to DevOps
 #labels patterns
+#sidebar patternsTOC
 
 = Introduction =
 
