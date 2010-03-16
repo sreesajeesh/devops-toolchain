@@ -1,5 +1,6 @@
 #summary Use data-driven automation and configuration management, that customizes software and configuration at deployment time.
 #labels designpattern
+#sidebar patternsTOC
 
 =Motivation=
 
