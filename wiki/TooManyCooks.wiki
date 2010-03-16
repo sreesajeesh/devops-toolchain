@@ -1,1 +1,4 @@
 #summary A common infrastructure must be maintained by various disciplines but each use their own tools to affect change increasing chances for conflicts and overall negative effects.
+#sidebar patternsTOC
+
+ 
