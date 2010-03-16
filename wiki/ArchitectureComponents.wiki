@@ -1,4 +1,4 @@
-#summary Architectural components supporting a programmable infrastructure environment
+#summary Architectural components supporting DevOps tooling and automation
 
 
 =Components=
