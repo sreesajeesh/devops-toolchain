@@ -1,0 +1,4 @@
+  * [ArchitectureComponents]
+  * [Tooling]
+  * [SdlcPhases]
+  * [Artifacts]
