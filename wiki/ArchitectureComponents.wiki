@@ -5,7 +5,7 @@
 <a href="http://devops-toolchain.googlecode.com/svn/wiki/images/ni-architecture-components.png"><img align="right" src="http://devops-toolchain.googlecode.com/svn/wiki/ni-images/architecture-components" alt="NI's Programmable infrastructure environment" width="300"/></a>
 
 =Components=
-Set of functional components comprising the generic architecture. Depending on the implementation some of these roles may be supported by one or more tools.
+Set of functional components comprising a generic architecture. Depending on the implementation some of these roles may be supported by one or more tools.
 
 == Version Control ==
 Contains all tool chain related source files used to support setting up and operating the deployments and infrastructure. 
