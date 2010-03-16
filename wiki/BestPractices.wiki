@@ -4,7 +4,7 @@
 
 While DevOps is a broad term, one can say there certainly best practices that underly it. Applying any one of these best practices should result in an improvement to the life cycle or operation of a service. Taken together, these best practices can form a DevOps methodology. 
 
-To help apply the best practice, it is important to relate it to the associated [Tooling], [SdlcPhases], as well as gauge it's [Qualities].
+To help apply the best practice, it is important to relate it to the associated [Tooling], [SdlcPhases], as well as gauge it's [Qualities]. Some should correspond to documented [PatternRepository design patterns].
 
 Below is just a draft list of example best practices.  Each of these should be expanded in their own page. 
 
