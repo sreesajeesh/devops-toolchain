@@ -1,1 +1,5 @@
 #summary A structured archive of files used for distributing any software release during the deployment process.
+#sidebar patternsTOC
+
+
+ 
