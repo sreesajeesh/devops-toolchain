@@ -1,6 +1,10 @@
 #summary Architectural components supporting DevOps tooling and automation
 
 <wiki:toc max_depth="2" />
+
+The goal for this page is to document something of a reference architecture that supports the activities of DevOps practitioners and compare it against a set of real world examples. Having a long term architectural vision helps set the scope of what you might want to build.
+Of course, there are many approaches that can be taken by those building automated infrastructure, as well as, how one manages a staged evolution of the architecture, too. For this reason, you are encouraged to share your own examples in the section below. It will be interesting to compare them to the strawman "reference" architecture and drive refinement in seeking a generic design.
+
 =Components=
 Set of functional components comprising a generic architecture. Depending on the implementation some of these roles may be supported by one or more tools.
 
@@ -52,6 +56,8 @@ Provides network abstracted remote command execution on hosts.
 Stores packaged artifacts used to distribute throughout the infrastructure.
 
 = Examples =
+
+Post your own examples here. If you are uncomfortable mentioning the company you work for, just make a broad description of the kind of environment you work in to show it might relate to another reader.
 
 ==Network Instruments===
 
