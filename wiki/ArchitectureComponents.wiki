@@ -56,6 +56,9 @@ Provides network abstracted remote command execution on hosts.
 == Artifact repository ==
 Stores packaged artifacts used to distribute throughout the infrastructure.
 
+== Model ==
+Definition of the environment, its components and their relationships. The model provides a common abstraction across the set of architectural components and can be use to drive automated processes.
+
 = Examples =
 
 Post your own examples here. If you are uncomfortable mentioning the company you work for, just make a broad description of the kind of environment you work in to show it might relate to another reader.
