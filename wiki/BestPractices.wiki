@@ -1,4 +1,5 @@
 #summary A set of best practices useful to those practicing DevOps
+#labels methodology
 
 This is just a draft list of example best practices. Each of these should be expanded in their own page. 
 
