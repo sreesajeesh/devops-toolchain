@@ -15,9 +15,9 @@ The process to achieve the code/data split is done over several steps. First, an
 
 Use this pattern:
 
-* when you need data continuity. This preserve data files produced or modified during deployment and operation.
-* to manage key configuration files that need to be maintained separately from the software releases.
-* as a first step in running multiple instances of the same software using one set of binaries.
+ * when you need data continuity. This preserve data files produced or modified during deployment and operation.
+ * to manage key configuration files that need to be maintained separately from the software releases.
+ * as a first step in running multiple instances of the same software using one set of binaries.
 
 =Structure=
 
@@ -32,13 +32,13 @@ Typical directory structure showing the split:
 
 =Consequences=
 
-* Separating software code from its data is the first step in supporting multiple deployments that share the same package images on the same computer.
-* Configuration can now be packaged separately from its software.
+ * Separating software code from its data is the first step in supporting multiple deployments that share the same package images on the same computer.
+ * Configuration can now be packaged separately from its software.
 
 =Implementation=
 
 These issues should be considered when applying the pattern:
-* Hard coded paths. Unfortunately, some software uses hard coded file paths which make this pattern very difficult to implement. 
+ * Hard coded paths. Unfortunately, some software uses hard coded file paths which make this pattern very difficult to implement. 
 * 
 * 
 
@@ -49,5 +49,5 @@ Platform software such as web (eg, Apache), application (eg Tomcat) and database
 
 =Related Patterns=
 
-* [AdaptiveDeployment]
-* [Service Monolith]: The application of the CodeData Split pattern can be used to counter the problems described [ServiceMonolith] anti-pattern.
+ * [AdaptiveDeployment]
+ * [Service Monolith]: The application of the CodeData Split pattern can be used to counter the problems described [ServiceMonolith] anti-pattern.
