@@ -1,10 +1,12 @@
 #summary Architectural components supporting a programmable infrastructure environment
 
-<a href="http://devops-toolchain.googlecode.com/svn/wiki/images/architecture-components.png"><img align="right" src="http://devops-toolchain.googlecode.com/svn/wiki/images/architecture-components" alt="Strawman reference architectural model diagram" width="300"/></a>
-
 
 =Components=
 Set of functional components comprising a generic architecture. Depending on the implementation some of these roles may be supported by one or more tools.
+
+<a href="http://devops-toolchain.googlecode.com/svn/wiki/images/architecture-components.png"><img align="right" src="http://devops-toolchain.googlecode.com/svn/wiki/images/architecture-components.png" alt="Strawman reference architectural model diagram" width="300"/></a>
+
+
 
 == Version Control ==
 Contains all tool chain related source files used to support setting up and operating the deployments and infrastructure. 
@@ -51,4 +53,6 @@ Stores packaged artifacts used to distribute throughout the infrastructure.
 
 = Examples =
 
-<img align="right" src="http://devops-toolchain.googlecode.com/svn/wiki/ni-images/architecture-components" alt="NI's Programmable infrastructure environment" />
+==Network Instruments===
+
+http://devops-toolchain.googlecode.com/svn/wiki/images/ni-architecture-components.png
