@@ -6,7 +6,6 @@ Patterns
   * [Lifecycle]
   * [Orchestrator]
   * [PackagedArtifact]
-  * [TooManyTools]
 Anti-Patterns
   * [AdhocRelease]
   * [ConfigurationBirdNest]
