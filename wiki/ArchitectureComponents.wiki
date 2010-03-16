@@ -1,6 +1,8 @@
 #summary Architectural components supporting a programmable infrastructure environment
 
-<a href="http://devops-toolchain.googlecode.com/svn/wiki/images/programmable-infrastructure-environment-em.gif"><img align="right" src="http://devops-toolchain.googlecode.com/svn/wiki/images/programmable-infrastructure-environment-em.gif" alt="Programmable infrastructure environment" width="300"/></a>
+<a href="http://devops-toolchain.googlecode.com/svn/wiki/images/architecture-components.png"><img align="right" src="http://devops-toolchain.googlecode.com/svn/wiki/images/architecture-components" alt="Strawman reference architectural model" width="300"/></a>
+
+<a href="http://devops-toolchain.googlecode.com/svn/wiki/images/ni-architecture-components.png"><img align="right" src="http://devops-toolchain.googlecode.com/svn/wiki/ni-images/architecture-components" alt="NI's Programmable infrastructure environment" width="300"/></a>
 
 =Components=
 Set of functional components comprising the generic architecture. Depending on the implementation some of these roles may be supported by one or more tools.
