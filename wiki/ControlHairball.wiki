@@ -1,1 +1,4 @@
 #summary A process that spans activities that occur across various tools and locations in the network, is implemented in a single piece of code for convenience but turns out to be very inflexible, opaque and hard to maintain and modify.
+#sidebar patternsTOC
+
+ 
