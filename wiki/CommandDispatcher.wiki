@@ -1,2 +1,6 @@
-#summary A mechanism used to lookup and execute logically organized named procedures within a data context permitting environment abstraction within the implementations.
+#summary A mechanism used to lookup and execute logically organized named procedures within a data context
 #labels designpattern
+#sidebar patternsTOC
+
+
+permitting environment abstraction within the implementations.
