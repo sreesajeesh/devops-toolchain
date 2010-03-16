@@ -1,4 +1,5 @@
 #summary Architectural components supporting DevOps tooling and automation
+#sidebar toolchainTOC
 
 <wiki:toc max_depth="2" />
 
