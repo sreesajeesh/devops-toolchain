@@ -1,5 +1,6 @@
 #summary Separate executable software files from environment specific deployment ones,  identifying files that change during installation or operation, thereby facilitating cleaner upgrade process,  and the ability to manage deployments independently and separate from each other.
 #labels designpattern
+#sidebar patternsTOC
 
 =Motivation=
 
