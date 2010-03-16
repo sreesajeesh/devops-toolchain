@@ -1,4 +1,5 @@
 #summary Software development life cycle phases
+#sidebar toolchainTOC
 
 =Phases=
 ==Planning==
