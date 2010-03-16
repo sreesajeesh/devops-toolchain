@@ -1,1 +1,4 @@
 #summary A set of independent deployments that can assembled together to support new patterns of integrated software systems.
+#sidebar patternsTOC
+
+  
