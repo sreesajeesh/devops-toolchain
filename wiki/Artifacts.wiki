@@ -1,4 +1,5 @@
 #summary Artifacts of the devops tool-chain
+#sidebar toolchainTOC
 
 = Introduction =
 
