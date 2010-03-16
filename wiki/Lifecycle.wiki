@@ -1,2 +1,6 @@
 #summary A formalized series of operational stages through which resources comprising application software systems must pass.
 #labels designpattern
+#sidebar patternsTOC
+
+
+  
