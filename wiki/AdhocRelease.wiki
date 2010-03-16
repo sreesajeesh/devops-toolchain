@@ -1,1 +1,4 @@
 #summary The lack of standard practice and distribution mechanisms for releasing application changes.
+#sidebar patternsTOC
+
+ 
