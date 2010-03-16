@@ -1,6 +1,6 @@
 #summary Architectural components supporting DevOps tooling and automation
 
-
+<wiki:toc max_depth="2" />
 =Components=
 Set of functional components comprising a generic architecture. Depending on the implementation some of these roles may be supported by one or more tools.
 
