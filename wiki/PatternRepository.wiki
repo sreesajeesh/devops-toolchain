@@ -71,7 +71,7 @@ First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-man
 <td>[TooManyTools]</td>
 <td>Each technology and process activity needs its own tool, resulting in a multitude of syntaxes and semantics that must each be understood by the operator, and makes automation across them difficult to achieve.</td>
 <td>[CommandDispatcher]</td>
-<td>Tool Mishmash, Heterogeneous interfaces]</td>
+<td>Tool Mishmash, Heterogeneous interfaces</td>
 </tr>
 <tr>
 <td>[TooManyCooks]</td>
@@ -82,7 +82,7 @@ First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-man
 <tr>
 <td>[ControlHairball]</td>
 <td>A process that spans activities that occur across various tools and locations in the network, is implemented in a single piece of code for convenience but turns out to be very inflexible, opaque and hard to maintain and modify.</td>
-<td>[Orchestrator], [AdaptiveDeployment], [Workflow]</td>
+<td>[Orchestrator], [AdaptiveDeployment]</td>
 <td></td>
 </tr>
 <tr>
