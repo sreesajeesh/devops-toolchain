@@ -1,0 +1,58 @@
+Experimental labeling of some toolchains and their use cases
+
+<wiki:toc max_depth="4" />
+
+= Introduction =
+
+It is really hard to flesh out how to group these tool chains, so we decided to take the Google approach and release early and often. This is a rough draft to get some common toolchains on paper.
+
+I think there may be several kinds of toolchains, interactive, automated, and hybrid. AKA quantitative and qualitative.
+
+= Tool Chains =
+
+== Configuration/Control ==
+This covers both run time and bootstraping and encompasses both interactive and automated toolchains
+
+=== Runtime ===
+I view this as the equivalent of the runtime changes and deployment of code this would be interactive changes in configuration and application code.
+
+=== Provisioning ===
+Bootstrap of hardware to a known starting point. The development process is interactive, but the deployment side is automated.
+
+==== Network Services ====
+Often manually deployed because bind, but automatically managed at run time (eg bind, directory services, Nagios it's self)
+
+== Monitoring ==
+The goal would be to have most of the deployment automated to a baseline, but there will always be exceptions and new technology integration. The run time should be highly automated except for acknowledgements
+
+=== Fault Management ===
+Larger tool chain that encompasses both automated and interactive tools
+
+=== Performance Management ===
+Performance management can be complex and can have both automated and interactive tool chains 
+
+
+=== Analysis ===
+
+Made up of interactive toolchains
+
+==== Database ====
+==== Traffic ====
+==== Database ====
+ mysqlbinlog, maatkit
+
+==== System ====
+
+===== Use Cases ====
+
+Example:
+{{{
+cat /var/log/messages | grep error | petit --hgraph
+}}}
+
+==== Application ====
+Often written by devs, used by webops
+
+
+== Security ==
+TBD
