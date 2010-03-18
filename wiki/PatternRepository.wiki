@@ -1,10 +1,10 @@
-#summary Catalog of design patterns and anti patterns relevant to DevOps
+#summary Catalog of design patterns and anti patterns relevant to software operations
 #labels patterns
 #sidebar patternsTOC
 
 = Introduction =
 
-First published in the dev2ops [http://dev2ops.org/blog/2010/2/18/deployment-management-design-patterns-for-devops.html blog post]
+First published in this [http://dev2ops.org/blog/2010/2/18/deployment-management-design-patterns-for-devops.html dev2ops blog post], this page contains a catalog of notional design patterns. Some of them have been documented more fully while others have a brief description. Readers of Nygard's [http://www.pragprog.com/titles/mnee/release-it Release It!: Design and Deploy Production-Ready Software] will recognize the approach here. 
 
 [http://devops-toolchain.googlecode.com/svn/wiki/images/pagoda.png]
 
