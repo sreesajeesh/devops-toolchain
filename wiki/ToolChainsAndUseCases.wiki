@@ -8,19 +8,41 @@ It is really hard to flesh out how to group these tool chains, so we decided to 
 
 I think there may be several kinds of toolchains, interactive, automated, and hybrid. AKA quantitative and qualitative.
 
+= Todo =
+I think some of the charts circulated on the mailing list need deployed here. In fact I am thinking it may be a deployment upside down tunnel. As things bootstrap, they go into run time which is defined by continuous change, but no more bootstrapping. It's basically a process of Bootstrap -> Deploy -> Spawn Children.
+
+Types of resources
+Infrastructure: Network/Server Hardware
+Platform: Load balancers, Web Servers
+Application: Could be many deployed on a Infrastructure/Platform resource
+
+Bootstrap: highly qualitative
+Deploy: highly automated
+
+Example
+Bootstrap
+1. Bootstrap Infrastructure -> Production Cycle Infrastructure
+2. Bootstrap Platform -> Production Cycle Pool
+3. Bootstrap Application -> Production Cycle: Application
+4. Repeat 3 until resource no longer suits needs
+
 = Tool Chains =
 
 == Configuration/Control ==
 This covers both run time and bootstraping and encompasses both interactive and automated toolchains
 
 === Runtime ===
-I view this as the equivalent of the runtime changes and deployment of code this would be interactive changes in configuration and application code.
+Runtime network, server changes and code deployment. This would be interactive changes in configuration and application code.
 
 === Provisioning ===
 Bootstrap of hardware to a known starting point. The development process is interactive, but the deployment side is automated.
 
+Cobbler or Kickstart
+
 ==== Network Services ====
-Often manually deployed because bind, but automatically managed at run time (eg bind, directory services, Nagios it's self)
+Often manually deployed because bind, but automatically managed at run time (eg bind, directory services, Nagios it's self, or firewalls)
+
+
 
 == Monitoring ==
 The goal would be to have most of the deployment automated to a baseline, but there will always be exceptions and new technology integration. The run time should be highly automated except for acknowledgements
@@ -30,7 +52,6 @@ Larger tool chain that encompasses both automated and interactive tools
 
 === Performance Management ===
 Performance management can be complex and can have both automated and interactive tool chains 
-
 
 === Analysis ===
 
@@ -57,9 +78,6 @@ Apache, appservers, app engine, etc
 
 ==== Application ====
 Often written by devs, used by webops
-
-
-
 
 == Security ==
 TBD
