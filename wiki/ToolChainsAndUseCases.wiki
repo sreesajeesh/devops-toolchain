@@ -12,12 +12,12 @@ I think there may be several kinds of toolchains, interactive, automated, and hy
 I think some of the charts circulated on the mailing list need deployed here. In fact I am thinking it may be a deployment upside down tunnel. As things bootstrap, they go into run time which is defined by continuous change, but no more bootstrapping. It's basically a process of Bootstrap -> Deploy -> Spawn Children.
 
 Types of resources
-Infrastructure: Network/Server Hardware
-Platform: Load balancers, Web Servers
-Application: Could be many deployed on a Infrastructure/Platform resource
+ Infrastructure: Network/Server Hardware
+ Platform: Load balancers, Web Servers
+ Application: Could be many deployed on a Infrastructure/Platform resource
 
-Bootstrap: highly qualitative
-Deploy: highly automated
+ Bootstrap: highly qualitative
+ Deploy: highly automated
 
 Example
 Bootstrap/Deploy Cycle
