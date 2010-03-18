@@ -20,11 +20,11 @@ Bootstrap: highly qualitative
 Deploy: highly automated
 
 Example
-Bootstrap
-1. Bootstrap Infrastructure -> Production Cycle Infrastructure
-2. Bootstrap Platform -> Production Cycle Pool
-3. Bootstrap Application -> Production Cycle: Application
-4. Repeat 3 until resource no longer suits needs
+Bootstrap/Deploy Cycle
+ # Bootstrap Infrastructure -> Production Cycle Infrastructure
+ # Bootstrap Platform -> Production Cycle Pool
+ # Bootstrap Application -> Production Cycle: Application
+ # Repeat 3 until resource no longer suits needs
 
 = Tool Chains =
 
