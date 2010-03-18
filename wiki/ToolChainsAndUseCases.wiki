@@ -36,12 +36,10 @@ Performance management can be complex and can have both automated and interactiv
 
 Made up of interactive toolchains
 
-==== Database ====
-==== Traffic ====
-==== Database ====
- mysqlbinlog, maatkit
 
-==== System ====
+
+==== Infrastructure ====
+Encompasses logs from infrastructure and platform systems (eg. switches, routers, firewalls, servers, load balances)
 
 ===== Use Cases ====
 
@@ -50,8 +48,17 @@ Example:
 cat /var/log/messages | grep error | petit --hgraph
 }}}
 
+==== Database ====
+Interactive tools to analyze databases
+ mysqlbinlog, maatkit
+
+==== Platform ====
+Apache, appservers, app engine, etc
+
 ==== Application ====
 Often written by devs, used by webops
+
+
 
 
 == Security ==
