@@ -22,7 +22,7 @@ Deploy: highly automated
 Example
 Bootstrap/Deploy Cycle
  # Bootstrap Infrastructure -> Production Cycle Infrastructure
- # Bootstrap Platform -> Production Cycle Pool
+ # Bootstrap Platform -> Production Cycle Platform
  # Bootstrap Application -> Production Cycle: Application
  # Repeat 3 until resource no longer suits needs
 
