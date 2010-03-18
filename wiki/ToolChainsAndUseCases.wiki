@@ -16,10 +16,10 @@ Types of resources
  # Platform: Load balancers, Web Servers
  # Application: Could be many deployed on a Infrastructure/Platform resource
 
+Processes
  # Bootstrap: highly qualitative
  # Deploy: highly automated
 
-Example
 Bootstrap/Deploy Cycle
  # Bootstrap Infrastructure -> Production Cycle Infrastructure
  # Bootstrap Platform -> Production Cycle Platform
