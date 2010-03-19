@@ -1,6 +1,7 @@
 #summary Catalog of design patterns and anti patterns relevant to software operations
 #labels patterns
 #sidebar patternsTOC
+This page contains a set of design patterns and anti patterns meant to capture good and bad practice. Design patterns are a useful format to some. To others, their use is an anti-pattern in itself. Either way, let the [devops-toolchain@googlegroups.com Group] know.
 
 = Introduction =
 
