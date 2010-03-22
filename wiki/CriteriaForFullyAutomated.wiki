@@ -2,9 +2,7 @@
 
 = Introduction =
 
- “Fully automated provisioning” means having the ability to deploy, update, and repair 
-your application infrastructure using only pre-deﬁned automated procedures. While this 
-might seem like a straightforward concept, the detail are still open for interpretation.
+“Fully automated provisioning” means having the ability to deploy, update, and repair your application infrastructure using only pre-deﬁned automated procedures. While this might seem like a straightforward concept, the details of what it really means are often still open for interpretation during automation implementations. 
 
 Like most endeavors, fully automated provisioning needs a target. When we say "fully automated" is should mean something specific. Below is a list of criteria that attempts to define what "fully automated" means when it comes to provisioning. 
 
