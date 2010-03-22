@@ -1,8 +1,10 @@
-#summary One-sentence summary of this page.
+#summary Criteria for "Fully Automated" Provisioning.
 
 = Introduction =
 
-Add your content here.
+Like most endeavors, fully automated provisioning needs a target. When we say "fully automated" is should mean something specific. Below is a list of criteria that attempts to define what "fully automated" means when it comes to provisioning. 
+
+(the foundation for this list comes from the [http://dev2ops.org/toolchain/ "WebOps 2.0: Achieving Fully Automated Provisioning"] whitepaper).
 
 
 = Details =
