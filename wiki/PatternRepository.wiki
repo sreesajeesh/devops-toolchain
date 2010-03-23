@@ -3,6 +3,8 @@
 #sidebar patternsTOC
 This page contains a set of design patterns and anti patterns meant to capture good and bad practice. Design patterns are a useful format to some. To others, their use is an anti-pattern in itself. Either way, let the [devops-toolchain@googlegroups.com Group] know.
 
+Note, some have commented that the language used in the descriptions sounds like [http://twitter.com/markimbriaco/status/10900089029 marketing gobbledygook] so maybe the language used here could be better phrased. 
+
 = Introduction =
 
 First published in this [http://dev2ops.org/blog/2010/2/18/deployment-management-design-patterns-for-devops.html dev2ops blog post], this page contains a catalog of notional design patterns. Some of them have been documented more fully while others have a brief description. Readers of Nygard's [http://www.pragprog.com/titles/mnee/release-it Release It!: Design and Deploy Production-Ready Software] will recognize the approach here. 
