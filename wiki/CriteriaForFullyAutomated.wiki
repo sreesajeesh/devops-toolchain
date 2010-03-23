@@ -1,4 +1,5 @@
 #summary Criteria for "Fully Automated" Provisioning.
+#labels methodology
 
 = Introduction =
 
