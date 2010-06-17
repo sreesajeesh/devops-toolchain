@@ -41,7 +41,7 @@ See:
 
 The first toolchain documented 
 
-http://controltier.org/wiki/File:ProvisioningToolchain.png
+http://controltier.org/mediawiki/images/thumb/4/4f/ProvisioningToolchain.png/800px-ProvisioningToolchain.png
 
 === Bootstrapping ===
 Bootstrap of hardware to a known starting point. The development process is interactive, but the deployment side is automated.
