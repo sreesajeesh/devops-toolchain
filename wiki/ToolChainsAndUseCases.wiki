@@ -102,7 +102,7 @@ See:
 http://en.oreilly.com/velocity2008/public/schedule/detail/1525
 http://groups.google.com/group/devops-toolchain/browse_thread/thread/9b5a22150706f082
 
-== Change Automation and Continuous Deployment --
+== Change Automation and Continuous Deployment ==
 
 SCM
 Config as code
