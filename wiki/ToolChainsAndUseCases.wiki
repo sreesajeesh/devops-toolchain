@@ -28,35 +28,52 @@ Bootstrap/Deploy Cycle
 
 = Tool Chains =
 
-== Configuration/Control ==
-This covers both run time and bootstraping and encompasses both interactive and automated toolchains
 
-=== Runtime ===
-Runtime network, server changes and code deployment. This would be interactive changes in configuration and application code.
+==Artifact Types and Repositories==
 
-=== Provisioning ===
+Rsync-ing file systems, NFS/DFS shared artifacts, Package repositories like YUM.  This decision effects your toolchain significantly
+
+See:
+http://groups.google.com/group/devops-toolchain/browse_thread/thread/804e3c7b6faa6fd8
+http://groups.google.com/group/devops-toolchain/browse_thread/thread/63f1947a9661fa80
+
+==Fully Automated Provisioning==
+
+The first toolchain documented 
+
+[http://controltier.org/wiki/File:ProvisioningToolchain.png]
+
+=== Bootstrapping ===
 Bootstrap of hardware to a known starting point. The development process is interactive, but the deployment side is automated.
 
-Cobbler or Kickstart
+Cobbler, xCAT, Kickstart, etc
 
-==== Network Services ====
-Often manually deployed because bind, but automatically managed at run time (eg bind, directory services, Nagios it's self, or firewalls)
+=== System Configuration ===
+IP addresses, shared/local file systems, access control/firewall, printers, etc
+
+cfengine, Chef, Puppet, etc
+
+=== Command Dispatching/Orchestration ===
+Runtime network, server changes and code deployment. This would be interactive changes in configuration and application code.
 
 
 
-== Monitoring ==
+== Monitoring/Instrumentation ==
 The goal would be to have most of the deployment automated to a baseline, but there will always be exceptions and new technology integration. The run time should be highly automated except for acknowledgements
 
-=== Fault Management ===
+=== Control Charting ===
+
+Histograms of state with threshold event generation.
+
+=== Alarm Management ===
 Larger tool chain that encompasses both automated and interactive tools
 
-=== Performance Management ===
-Performance management can be complex and can have both automated and interactive tool chains 
+=== Runbook Automation ===
+Control Sequencing to go from out of control to in control state can be complex and can have both automated and interactive tool chains 
 
 === Analysis ===
 
-Made up of interactive toolchains
-
+Made up of interactive toolchains.  The production data warehouse is used by the entire enterprise!
 
 
 ==== Infrastructure ====
@@ -78,6 +95,18 @@ Apache, appservers, app engine, etc
 
 ==== Application ====
 Often written by devs, used by webops
+
+== Incident Management ==
+
+See:
+http://en.oreilly.com/velocity2008/public/schedule/detail/1525
+http://groups.google.com/group/devops-toolchain/browse_thread/thread/9b5a22150706f082
+
+== Change Automation and Continuous Deployment --
+
+SCM
+Config as code
+Testing
 
 == Security ==
 TBD
