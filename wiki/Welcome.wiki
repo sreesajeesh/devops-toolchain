@@ -6,6 +6,6 @@ This project is a collaborative effort to discuss methodology and successful too
 = Architecture =
  * [http://code.google.com/p/devops-toolchain/w/list?q=label:methodology Methodologies]: Used in the development of development/operations toolchains
 
-Catalog of [http://code.google.com/p/devops-toolchain/wiki/PatternRepository design patterns] and anti patterns relevant to software operations
- * [http://code.google.com/p/devops-toolchain/w/list?q=label:designpattern Design Patterns]: Common practices that are promoted by the devops toolchain project
- * [http://code.google.com/p/devops-toolchain/w/list?q=label:antipattern Anti Patterns]: Common practices which have definite disadvantages
+ * [http://code.google.com/p/devops-toolchain/w/list?q=label:designpattern Design Patterns]: [http://code.google.com/p/devops-toolchain/wiki/PatternRepository Repository] of practices that are promoted by the devops toolchain project
+
+ * [http://code.google.com/p/devops-toolchain/w/list?q=label:antipattern Anti Patterns]: [http://code.google.com/p/devops-toolchain/wiki/PatternRepository Repository] of practices which have definite disadvantages
