@@ -3,10 +3,10 @@
 = Introduction =
 This project is a collaborative effort to discuss methodology and successful tool chains that support development and operations life cycle activities.
 
-= Categories (Draft) =
+= Architecture =
  * [http://code.google.com/p/devops-toolchain/w/list?q=label:methodology Methodologies]: Used in the development of development/operations toolchains
 
-== [http://code.google.com/p/devops-toolchain/wiki/PatternRepository Design Patterns] ==
-
+= Design Patterns =
+Catalog of [http://code.google.com/p/devops-toolchain/wiki/PatternRepository design patterns] and anti patterns relevant to software operations
  * [http://code.google.com/p/devops-toolchain/w/list?q=label:designpattern Design Patterns]: Common practices that are promoted by the devops toolchain project
  * [http://code.google.com/p/devops-toolchain/w/list?q=label:antipattern Anti Patterns]: Common practices which have definite disadvantages
