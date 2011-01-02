@@ -4,4 +4,4 @@
 This project is a collaborative effort to discuss methodology and successful tool chains that support development and operations life cycle activities.
 
 = Categories (Draft) =
-[http://code.google.com/p/devops-toolchain/w/list?q=label:methodology Methodologies]
+* [http://code.google.com/p/devops-toolchain/w/list?q=label:methodology Methodologies]: Used in the development of development/operations toolchains
