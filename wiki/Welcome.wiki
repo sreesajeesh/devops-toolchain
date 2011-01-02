@@ -13,4 +13,10 @@ Overview of architectural elements used to develop the devops toolchain idea
 
 = Tools =
 Breakdown of tools by high level use case
- * [http://code.google.com/p/devops-toolchain/w/list?q=label: Methodologies]: Used in the development of development/operations toolchains
+ * [http://code.google.com/p/devops-toolchain/w/list?q=label:command_control Command & Control]: Software used to control large numbers of servers
+
+ * [http://code.google.com/p/devops-toolchain/w/list?q=label:version_control Version Control]: Software used to control large numbers of servers
+
+ * [http://code.google.com/p/devops-toolchain/w/list?q=label:code_deployment Code Deployment]: Software used to control large numbers of servers
+
+ * [http://code.google.com/p/devops-toolchain/w/list?q=label:system_deployment System Deployment]: Software used to control large numbers of servers
