@@ -1,0 +1,15 @@
+  * Patterns
+    * [AdaptiveDeployment](AdaptiveDeployment.md)
+    * [CodeDataSplit](CodeDataSplit.md)
+    * [CommandDispatcher](CommandDispatcher.md)
+    * [ComposableService](ComposableService.md)
+    * [Lifecycle](Lifecycle.md)
+    * [Orchestrator](Orchestrator.md)
+    * [PackagedArtifact](PackagedArtifact.md)
+  * Anti-Patterns
+    * [AdhocRelease](AdhocRelease.md)
+    * [ConfigurationBirdNest](ConfigurationBirdNest.md)
+    * [ControlHairball](ControlHairball.md)
+    * [ServiceMonolith](ServiceMonolith.md)
+    * [TooManyCooks](TooManyCooks.md)
+    * [TooManyTools](TooManyTools.md)
